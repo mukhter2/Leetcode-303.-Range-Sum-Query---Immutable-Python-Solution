@@ -25,5 +25,5 @@ numArray.sumRange(0, 5); // return (-2) + 0 + 3 + (-5) + 2 + (-1) = -3
 0 <= left <= right < nums.length
 At most 104 calls will be made to sumRange.
 ## Methodology:
-Step 1: create a array with cumulative sum 
-step 2: return the value of the cumulative sum array with the index value equal to right 
+-Step 1: create a array with cumulative sum 
+-step 2: return the value of the cumulative sum array with the index value equal to right 
